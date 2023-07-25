@@ -3,7 +3,7 @@ A basic Python script for trying to make the most efficient f1 calendar.
 
 Since Formula one is aiming to go carbon neutral by 2030, the main carbon usage comes from transportation of teams and equipment. I used the 2023 season as my references, and created a simple script to calculate the best and most efficient season for cutting down on transportation for the teams.
 
-#Theory
+Theory:
 
 We used the Traveling Salesman problem, to cut a long description short, TSP problem is to seek the most efficient way to travel from point to point without visiting the same point twice and minimizing the total distance traveled. TSP has many real world applications, such as route planning, DNA sequencing and so on.
 
